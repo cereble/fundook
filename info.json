@@ -1,10 +1,10 @@
 [
 	{
-		"version": "0.5.43",
-		"releaseTimestamp": 1678793731,
-		"size": 55.8,
+		"version": "0.5.44",
+		"releaseTimestamp": 1685506292,
+		"size": 57.8,
 		"changelog": [
-			"Validity extended till 31st May 2023.",
+			"Validity extended till 30th June 2023.",
 			"Minor bug fixes in Purple Mode."
 		]
 	}
